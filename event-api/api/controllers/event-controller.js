@@ -43,7 +43,7 @@ function getEvents(req, res) {
   res.json([
     {
       id: "12",
-      name: name,
+      name: "name",
       location: "Minsk",
       image: "fest.jpg",
       date: date,
